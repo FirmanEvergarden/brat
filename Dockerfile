@@ -14,4 +14,4 @@ RUN npm install
 COPY . .
 
 # Jalankan aplikasi
-CMD ["node", "index.js"]
+CMD ["node", "app.js"]
